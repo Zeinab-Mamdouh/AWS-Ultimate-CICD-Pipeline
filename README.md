@@ -18,7 +18,7 @@ In this step, we'll create an AWS CodePipeline to automate the continuous integr
 - Continue configuring the pipeline stages, such as deploying your application using AWS Elastic Beanstalk or any other suitable deployment option.
 - Review the pipeline configuration and click on the "Create pipeline" button to create your AWS CodePipeline.
 
-Awesome job! We now have our pipeline ready to roll. Let's move on to the next step to set up AWS CodeBuild.
+Let's move on to the next step to set up AWS CodeBuild.
 
 ## Configure AWS CodeBuild
 
@@ -34,7 +34,6 @@ In this step, we'll configure AWS CodeBuild to build our Python application base
 - Set up the artifacts configuration to generate the build output required for deployment.
 - Review the build project settings and click on the "Create build project" button to create your AWS CodeBuild project.
 
-Fantastic! With AWS CodeBuild all set up, we're now ready to witness the magic of continuous integration in action.
 
 ## Trigger the CI Process
 
